@@ -1,0 +1,17 @@
+{
+  "minnaert": {
+    "dark_current": 82.0,
+    "gain": 0.0015,
+    "k_exponent": 0.5
+  },
+  "albedo": {
+    "sigma": 15
+  },
+  "shadow": {
+    "sun_el_threshold": 5.0,
+    "abs_if_threshold": 0.01,
+    "threshold_factor": 0.2,
+    "min_if_valid": 0.001,
+    "morph_iters": 2
+  }
+}
